@@ -1,3 +1,7 @@
 created the new branch
 added the n1.txt file
 updated the file with content
+
+from newbranch n1.txt file is changed and update
+
+
